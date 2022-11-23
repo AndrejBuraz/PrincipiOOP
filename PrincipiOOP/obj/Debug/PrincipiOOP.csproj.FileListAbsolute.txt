@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\PrincipiOOP\bin\Debug\PrincipiOOP.exe.config
+C:\Users\ucenik\Documents\PrincipiOOP\bin\Debug\PrincipiOOP.exe
+C:\Users\ucenik\Documents\PrincipiOOP\bin\Debug\PrincipiOOP.pdb
+C:\Users\ucenik\Documents\PrincipiOOP\obj\Debug\PrincipiOOP.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\PrincipiOOP\obj\Debug\PrincipiOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\PrincipiOOP\obj\Debug\PrincipiOOP.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\PrincipiOOP\obj\Debug\PrincipiOOP.exe
+C:\Users\ucenik\Documents\PrincipiOOP\obj\Debug\PrincipiOOP.pdb
